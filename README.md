@@ -9,6 +9,6 @@ This wrapper will allow sending sms and creating data to zender using pure GET r
 
 > This will work for /send and /create POST endpoints
 
-To use the wrapper simply replace "/api/" with "/getwrap/" on your request url, this guide assumes that you already uploaded this wrapper on your zender site.
+To use the wrapper simply replace "/api/" to "/getwrap/" on your request url, this guide assumes that you already uploaded this wrapper on your zender site.
 
-It is really recommended to only use this wrapper for personal or internal use only and not for you user consumption.
+It is recommended to only use this wrapper for personal or internal use only and not for you user consumption.
